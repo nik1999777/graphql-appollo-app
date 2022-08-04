@@ -1,4 +1,4 @@
-# graphql-appollo-app-ulbi
+# graphql-appollo-app
 Learning project with React, GraphQL, Appollo Client.
 
 ## Technology
