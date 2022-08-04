@@ -1,6 +1,9 @@
 # graphql-appollo-app
 Learning project with React, GraphQL, Appollo Client.
 
+![Alt text](assets/client.png?raw=true "Optional Title")
+![Alt text](assets/server.png?raw=true "Optional Title")
+
 ## Technology
 - [React](https://reactjs.org/)
 - [Apollo Client](https://www.apollographql.com/docs/react/)
@@ -27,5 +30,3 @@ To start the development server, run the command:
 ```sh
 $ npm run dev
 ```
-![Alt text](assets/client.png?raw=true "Optional Title")
-![Alt text](assets/server.png?raw=true "Optional Title")
