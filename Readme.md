@@ -1,7 +1,7 @@
 # graphql-appollo-app-ulbi
 Learning project with React, GraphQL, Appollo Client.
 
-## Технологии
+## Technology
 - [React](https://reactjs.org/)
 - [Apollo Client](https://www.apollographql.com/docs/react/)
 - [Express](https://expressjs.com/)
@@ -10,22 +10,22 @@ Learning project with React, GraphQL, Appollo Client.
 - [Expressjs/cors](https://github.com/expressjs/cors#readme)
 - [Nodemon](https://github.com/remy/nodemon)
 
-## Использование
-### Установка зависимостей
-Для установки зависимостей, выполните команду:
+## Usage
+### Installing dependencies
+To install dependencies, run the command:
 ```sh
 $ npm i
 ```
 
-### Запуск client
-Чтобы запустить сервер для разработки, выполните команду:
+### Start client
+To start the development client, run the command:
 ```sh
-npm start
+$ npm start
 ```
-### Запуск server
-Чтобы запустить сервер для разработки, выполните команду:
+### Start server
+To start the development server, run the command:
 ```sh
-npm run dev
+$ npm run dev
 ```
 ![Alt text](assets/client.png?raw=true "Optional Title")
 ![Alt text](assets/server.png?raw=true "Optional Title")
